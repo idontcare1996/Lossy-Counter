@@ -3,7 +3,7 @@
 Created on Thu Jan  4 12:28:34 2018
 """
 print ( """
- AUTOR: Carlos Oliveira n. 88702
+ AUTOR: Carlos Oliveira
 
  Algoritmo baseado no exemplo em pseudo-código de:
 
